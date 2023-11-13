@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "quadratic",
+            "request": "launch",
+            "mainClass": "Address.quadratic",
+            "projectName": "Modul8_9c2a89ba"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HashTableApp",
+            "request": "launch",
+            "mainClass": "Address.HashTableApp",
+            "projectName": "Modul8_9c2a89ba"
+        },
+        {
+            "type": "java",
+            "name": "coba",
+            "request": "launch",
+            "mainClass": "Address.coba",
+            "projectName": "Modul8_9c2a89ba"
+        },
+        {
+            "type": "java",
+            "name": "HashChainApp",
+            "request": "launch",
+            "mainClass": "Hashing.HashChainApp",
+            "projectName": "Modul8_9c2a89ba"
+        }
+    ]
+}
